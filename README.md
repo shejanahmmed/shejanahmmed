@@ -1,7 +1,6 @@
-[![MasterHead](https://cdna.artstation.com/p/assets/images/images/063/699/500/original/jongwon-park-night-room.gif?1686149260)](https://farjan.me)
 <h1 align="center">Hi 👋, I'm Farjan Ahmmed</h1>
 <h3 align="center">💻 Software Engineering Undergraduate @ DIU | Exploring AI/ML</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gif" />
+<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/063/699/500/original/jongwon-park-night-room.gif?1686149260" />
 
 - 🌱 I’m currently learning **Python (NumPy, Pandas, Matplotlib, Seaborn), <br> Core Machine Learning, Deep Learning**
 
