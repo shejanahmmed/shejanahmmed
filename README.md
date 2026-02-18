@@ -25,11 +25,10 @@
 
 ### ⚡ What I Build
 
-- 🧠 Machine Learning models using NumPy, Pandas, Scikit-learn  
-- 📊 Data visualization projects with Matplotlib and Seaborn  
-- 🌐 Modern responsive web apps  
-- 📱 Smart tools and experimental tech projects  
-- 🔁 Real-world logic turned into functional systems  
+- 🤖 Applied Machine Learning projects with a strong focus on structured implementation  
+- 📱 Android applications built with clean architecture and maintainable code design  
+- 🌐 Modern web applications and practical utility tools solving real use cases  
+- 🧠 Systems modeled with proper design principles, diagrams and logical abstraction    
 
 ---
 
