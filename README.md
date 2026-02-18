@@ -5,10 +5,6 @@
 
 ---
 
-<p align="center"><i>"Intelligence is built, not wished for."</i></p>
-
----
-
 ### 🧠 Who Am I?
 
 - 🎓 Software Engineering undergraduate student at DIU  
@@ -66,4 +62,4 @@
 
 ---
 
-<h4 align="center">✨ Built with Curiosity & Ambition ✨</h4>
+<h4 align="center">✨ Intelligence is built, not wished for. ✨</h4>
